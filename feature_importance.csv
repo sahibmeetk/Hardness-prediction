@@ -1,0 +1,97 @@
+Feature,Importance
+categorical__Steel_Grade_AISI 4340,0.1574698200589222
+categorical__Final_Cooling_Quench (medium not reported),0.14558917987719286
+numeric__Pearlite_pct,0.12309828746781325
+numeric__C_wt_pct,0.07206614330052435
+categorical__Quench_Quenched (medium not reported),0.06528941246432542
+categorical__Phase_Description_not clear,0.04498575501193201
+numeric__Mo_wt_pct,0.0407897752549035
+numeric__Aus_Time_min,0.03675293087223576
+numeric__Martensite_pct,0.03531626002010536
+numeric__Tempering_Temp_C,0.031026634885528974
+categorical__Steel_Grade_AISI 1040,0.029613601168129274
+numeric__Ferrite_pct,0.020988881932039193
+numeric__Mn_wt_pct,0.01880618217402915
+numeric__Aus_Temp_C,0.018557955901561136
+numeric__Retained_Austenite_pct,0.016477670000401238
+numeric__S_wt_pct,0.01408416631539188
+categorical__Phase_Description_Ferrite + pearlite,0.010408917648541443
+numeric__Ni_wt_pct,0.009379848238942393
+categorical__Final_Cooling_Water quenching at room condition,0.00892335751566648
+categorical__Final_Cooling_Oil quench,0.008402028899853567
+numeric__Cr_wt_pct,0.008278290518162036
+numeric__Tempering_Time_min,0.008064812088299315
+categorical__Quench_Oil quench,0.007462114842411669
+categorical__Phase_Description_Retained austenite + martensite,0.007108374176881715
+numeric__Si_wt_pct,0.007051412242236623
+categorical__Phase_Description_51.82% m + 48.18% austenite,0.006810874146024879
+categorical__Phase_Description_22.23% ferrite and remainder pearlite,0.005106294798577529
+categorical__Phase_Description_37.65% martensite,0.00469152538191486
+numeric__P_wt_pct,0.004674636713660348
+categorical__Final_Cooling_Air cooling (implied; verify),0.004151677699572015
+numeric__Phase_Fraction_pct,0.004086202992959299
+categorical__Quench_Oil quench (oil tank at 800 C),0.004085411421383724
+categorical__Final_Cooling_Air cooling at room condition,0.0026865814645669703
+categorical__Phase_Description_Martensite + retained austenite,0.0024044212480087337
+categorical__Phase_Description_Bainite + martensite + retained austenite,0.0019208450111165365
+categorical__Final_Cooling_Furnace cooling (implied; verify),0.0018184343344767589
+categorical__Final_Cooling_Quench,0.0011430416420097926
+categorical__Phase_Description_Ferrite + pearlite + martensite,0.0010856296157466937
+categorical__Phase_Description_Martensite,0.0010650710752765095
+categorical__Quench_Engine-oil quench,0.0009992152530386102
+categorical__Final_Cooling_Engine-oil quench,0.0009614224879322453
+categorical__Phase_Description_46.26% ferrite and remainder pearlite,0.0009185144060356751
+categorical__Quench_Oil quench (implied by 'quench'; medium not explicitly stated),0.0007842373068496303
+categorical__Steel_Grade_AISI 4140,0.0007232672233284928
+categorical__Final_Cooling_Oil cooling at 80 C,0.000641632266826881
+categorical__Quench_Water quench,0.00039534756014444
+categorical__Phase_Description_20.88% fine pearlite + ferrite,0.00038520724092099104
+categorical__Phase_Description_47.82% m,0.00032507628063822706
+categorical__Quench_Oil quench; intermediate hold 720 C/20 min; oil quench,0.0002905398588854934
+categorical__Phase_Description_33.26% ferrite and remainder pearlite,0.00027838439060010587
+categorical__Quench_Oil quench; intermediate hold 760 C/20 min; oil quench,0.0002759751406040625
+categorical__Phase_Description_38.99% martensite,0.0002568418181411638
+categorical__Phase_Description_Ferrite + martensite,0.00017554305047166654
+categorical__Final_Cooling_Water quench,0.00016244229420601125
+categorical__Quench_Oil cooling at 80 C after interrupted-quench hold,0.0001291916403044527
+categorical__Final_Cooling_Air cooling after tempering,0.00011189498810088762
+categorical__Final_Cooling_Furnace-condition cooling,0.0001065112982886777
+categorical__Phase_Description_40.95% pearlite + 59.05% eutectoid ferrite,7.97107362011269e-05
+categorical__Phase_Description_52.27% m,5.995271164085821e-05
+categorical__Phase_Description_49.11% m + 50.89% ferrite,5.107276037691628e-05
+categorical__Quench_Hot-oil quench at 80 C,5.057455806524537e-05
+categorical__Phase_Description_40.12% ferrite and remainder pearlite,2.9079702764606353e-05
+categorical__Final_Cooling_Air cooling,2.3587194234183567e-05
+categorical__Final_Cooling_Not reported after austempering,2.2128736334186043e-05
+categorical__Phase_Description_39.54% martensite,2.178883112624341e-05
+categorical__Phase_Description_56.91% coarse pearlite and 43.09% ferrite,8.963639380073294e-06
+categorical__Phase_Description_33.1% very fine pearlite,7.3602661880158575e-06
+categorical__Final_Cooling_Water quench at 70 C,2.0759370453436996e-06
+categorical__Quench_Lubricating-oil quench,0.0
+categorical__Quench_Furnace/standard condition,0.0
+categorical__Quench_Coolant quench,0.0
+categorical__Final_Cooling_Solid-ice quench,0.0
+categorical__Quench_Water quench at 70 C,0.0
+categorical__Quench_Solid-ice quench,0.0
+categorical__Quench_Water quench at 30 C,0.0
+categorical__Quench_Water quench at 5 C,0.0
+categorical__Final_Cooling_Coolant quench,0.0
+categorical__Final_Cooling_Air cooling to room temperature,0.0
+categorical__Final_Cooling_Furnace/standard condition,0.0
+categorical__Final_Cooling_Lubricating-oil quench,0.0
+categorical__Phase_Description_26.36% coarse pearlite + ferrite,0.0
+categorical__Phase_Description_100% bainite,0.0
+categorical__Final_Cooling_Water quench at 5 C,0.0
+categorical__Final_Cooling_Water quench at 30 C,0.0
+categorical__Final_Cooling_Not heat treated,0.0
+categorical__Phase_Description_30.77% pearlite + 69.23% ferrite,0.0
+categorical__Phase_Description_29.30% pearlite + 71.70% ferrite,0.0
+categorical__Phase_Description_43.64% pearlite,0.0
+categorical__Phase_Description_51.38% ferrite and remainder pearlite,0.0
+categorical__Phase_Description_50.76% martensite,0.0
+categorical__Phase_Description_43.38% (cementite + pearlite),0.0
+categorical__Phase_Description_66.51% ferrite and remainder pearlite,0.0
+categorical__Phase_Description_56.53% m + 43.47% ferrite,0.0
+categorical__Phase_Description_66% martensite & 34% ferrite,0.0
+categorical__Phase_Description_66% bainite & 34% ferrite,0.0
+categorical__Phase_Description_60.28% ferrite and remainder pearlite,0.0

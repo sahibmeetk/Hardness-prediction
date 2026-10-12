@@ -1,0 +1,7 @@
+Record_ID,Paper_ID,Steel_Grade,Hardness_Original,Hardness_Scale_Original,Model_Estimated_Hardness_HV,Prediction_Status
+R020,P05,AISI 1040,18,HRC,268.97537896665403,MODEL ESTIMATE ONLY — hardness was not reported; not an experimental measurement
+R064,P11,AISI 4340,,,476.93453620598945,MODEL ESTIMATE ONLY — hardness was not reported; not an experimental measurement
+R065,P11,AISI 4340,,,470.0883816668431,MODEL ESTIMATE ONLY — hardness was not reported; not an experimental measurement
+R066,P11,AISI 4340,,,465.33278790754673,MODEL ESTIMATE ONLY — hardness was not reported; not an experimental measurement
+R067,P11,AISI 4340,,,466.808456598023,MODEL ESTIMATE ONLY — hardness was not reported; not an experimental measurement
+R068,P11,AISI 4340,,,460.08779404530685,MODEL ESTIMATE ONLY — hardness was not reported; not an experimental measurement
